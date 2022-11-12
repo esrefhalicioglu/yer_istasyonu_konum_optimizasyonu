@@ -27,15 +27,16 @@ durumunu tahmin etmek için kullanılan olasılıksal modellerdir.</p>
 
 
 <h1>Challenge</h1>
-Link bütçesi analizlerine göre uydularla kesintisiz iletişim 5 derece elevasyon üzerinde
+<p>Link bütçesi analizlerine göre uydularla kesintisiz iletişim 5 derece elevasyon üzerinde
 başlamaktadır. 5 derece elevasyondan sonra bir uydu yer istasyonuna saniyede 0.2 mBla başlayıp
 90 derece elevasyona kadar 3.6mB, lineer bir şekilde artan data indirebilme yeteneğine sahiptir.
 Aşağıda yörünge parametreleri verilen uyduların hepsinin yukarıda belirtilen data indirme
 donanımına sahip olduğu düşünülebilir. Amaç, bir haftalık bir analiz süresinde, Türkiye üzerine
 konumlandırılacak en az yer istasyonuyla en çok datayı indirecek yer istasyonu dağılımını
-sağlamaktır.
-Analiz başlama zamanı : 4 Kasım 2022 15:00:00 UTC
-Analiz bitiş zamanı : 11 Kasım 2022 15:00:00 UTC
+sağlamaktır.</p>
 </br>
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2005-05-15-raisting_900x460.jpg" width="700" height="300"></center>
+<p>Analiz başlama zamanı : 4 Kasım 2022 15:00:00 UTC</p>
+<p>Analiz bitiş zamanı : 11 Kasım 2022 15:00:00 UTC</p>
+</br>
+<center><img src="https://i4.hurimg.com/i/hurriyet/75/750x422/5845483ac03c0e1898b87f7e.jpg" width="700" height="300"></center>
 
