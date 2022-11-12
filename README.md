@@ -1,11 +1,11 @@
 
-<h2>Yer İstasyonu Konum Optimizasyonu</h2>
+<center><h2>Yer İstasyonu Konum Optimizasyonu</h2></center>
 Uyduların yer istasyonlarıyla iletişimini en verimli şekilde gerçekleştirmeleri için yer istasyonunun
 konumlandırılması uydu haberleşmesinde oldukça önemli bir çalışma alanıdır. Bu projenin amacı
 farklı yörüngelerdeki belirli sayıdaki uydu için, verilen link bütçesi hesaplamalarını göz önünde
 bulundurarak istenilen bir coğrafi bölgede bulunması gereken yer istasyonu sayısını ve konumlarını
 optimize edecek bir algoritma geliştirmek olacaktır.
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2005-05-15-raisting_900x460.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2005-05-15-raisting_900x460.jpg" width="300" height="100">
 
 
 Uydu Konum Belirlenmesi
