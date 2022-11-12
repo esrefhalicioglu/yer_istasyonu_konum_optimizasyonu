@@ -5,7 +5,7 @@ konumlandırılması uydu haberleşmesinde oldukça önemli bir çalışma alan�
 farklı yörüngelerdeki belirli sayıdaki uydu için, verilen link bütçesi hesaplamalarını göz önünde
 bulundurarak istenilen bir coğrafi bölgede bulunması gereken yer istasyonu sayısını ve konumlarını
 optimize edecek bir algoritma geliştirmek olacaktır.
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2005-05-15-raisting_900x460.jpg" width="300" height="100">
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2005-05-15-raisting_900x460.jpg" width="700" height="300"></center>
 
 
 Uydu Konum Belirlenmesi
